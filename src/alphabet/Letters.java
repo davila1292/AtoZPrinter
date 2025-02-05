@@ -26,6 +26,9 @@ public class Letters {
 		case 'F':
 			System.out.println("This is letter: F.");
 			break;
+		case 'G':
+			System.out.println("This is letter: G.");
+			break;
 			
 			//Try
 			
