@@ -23,6 +23,9 @@ public class Letters {
 		case 'E':
 			System.out.println("This is letter: E.");
 			break;
+		case 'F':
+			System.out.println("This is letter: F.");
+			break;
 			
 			/**
 			 * Let's complete the alphabet. You can add 1 - 5 cases per push, so everyone in the team can participate.
