@@ -56,11 +56,29 @@ public class Letters {
 			System.out.println("This is letter: O.");
 
 		
+
+			
+		case 'P':
+			System.out.println("This is letter: P.");
+			break;
+		case 'Q':
+			System.out.println("This is letter: Q.");
+			break;
+		case 'R':
+			System.out.println("This is letter: R.");
+			break;
+		case 'S':
+			System.out.println("This is letter: S.");
+			break;
+		case 'T':
+			System.out.println("This is letter: T.");
+			break;
+			
 			
 			/**
 			 * Let's complete the alphabet. You can add 1 - 5 cases per push, so everyone in the team can participate.
 			 */
-
+			// My comment- William
 		default:
 			System.out.println("This is not a letter from alphabet");
 		}
