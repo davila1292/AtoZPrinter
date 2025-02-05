@@ -23,7 +23,8 @@ public class Letters {
 		case 'E':
 			System.out.println("This is letter: E.");
 			break;
-		case 'F':
+        
+     case 'F':
 			System.out.println("This is letter: F.");
 			break;
 		case 'G':
@@ -38,6 +39,23 @@ public class Letters {
 		case 'J':
 			System.out.println("This is letter: J.");
 			break;
+
+		case 'K':
+			System.out.println("This is letter: K.");
+			break;
+		case 'L':
+			System.out.println("This is letter: L.");
+			break;
+		case 'M':
+			System.out.println("This is letter: M.");
+			break;
+		case 'N':
+			System.out.println("This is letter: N.");
+			break;
+		case 'O':
+			System.out.println("This is letter: O.");
+
+		
 			
 			/**
 			 * Let's complete the alphabet. You can add 1 - 5 cases per push, so everyone in the team can participate.
