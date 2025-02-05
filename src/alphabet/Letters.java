@@ -20,8 +20,8 @@ public class Letters {
 		case 'D':
 			System.out.println("This is letter: D.");
 			break;
-		case 'E':
-			System.out.println("This is letter: E.");
+		case 'H':
+			System.out.println("This is letter: H.");
 			break;
 		case 'F':
 			System.out.println("This is letter: F.");
