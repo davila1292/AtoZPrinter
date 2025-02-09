@@ -73,12 +73,21 @@ public class Letters {
 		case 'T':
 			System.out.println("This is letter: T.");
 			break;
-			
-			
+		case 'U':
+			System.out.println("This is letter: U.");
+			break;
+		case 'V':
+			System.out.println("This is letter: V.");
+			break;
 			/**
 			 * Let's complete the alphabet. You can add 1 - 5 cases per push, so everyone in the team can participate.
 			 */
 			// My comment- William
+			
+			//my comment U Sameer
+			// this is comment
+			//get it done
+		
 		default:
 			System.out.println("This is not a letter from alphabet");
 		}
